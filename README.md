@@ -8,8 +8,6 @@ HardWare
 - Buzzer
 - Button
 
-BMP
-
 
 [vario_screen](https://user-images.githubusercontent.com/44578652/191684931-c7044c36-4219-4735-b700-6c4800bbe6a7.png)
 
