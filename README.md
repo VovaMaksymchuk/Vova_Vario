@@ -12,4 +12,5 @@ BMP
 
 
 [vario_screen](https://user-images.githubusercontent.com/44578652/191684931-c7044c36-4219-4735-b700-6c4800bbe6a7.png)
-[IMG_5189](https://user-images.githubusercontent.com/44578652/191684889-7d59c465-e068-46d8-b678-6897c62ff61c.jpg)
+
+[photo](https://user-images.githubusercontent.com/44578652/191684889-7d59c465-e068-46d8-b678-6897c62ff61c.jpg)
