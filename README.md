@@ -2,7 +2,7 @@
 Arduino Para Variometer
 
 HardWare
-- Arduino Nano 238p
+- Arduino Nano Atmega 328p
 - BMP280 3.3v / (6 pins) / I2C 
 - OLED / 0.96 / 128x64 /(4 pins) / I2C
 - Buzzer
