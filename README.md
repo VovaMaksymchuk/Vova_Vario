@@ -8,6 +8,24 @@ HardWare
 - Buzzer
 - Button
 
+BMP:
+vcc -> 3.3v
+SCL -> A5
+SCA -> A4
+CSB -> x
+SDD -> 3.3v
+
+OLED:
+vcc -> 3.3v
+SCL -> A5
+SCA -> A4
+
+Buzzer:
+09 (buzzer -)
+10 (buzzer +)
+
+Button -> 04
+
 
 [vario_screen](https://user-images.githubusercontent.com/44578652/191684931-c7044c36-4219-4735-b700-6c4800bbe6a7.png)
 
