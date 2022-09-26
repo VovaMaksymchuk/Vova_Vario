@@ -9,20 +9,20 @@ HardWare
 - Button
 
 BMP:
-vcc -> 3.3v
-SCL -> A5
-SCA -> A4
-CSB -> x
-SDD -> 3.3v
+vcc -> 3.3v, 
+SCL -> A5, 
+SCA -> A4, 
+CSB -> x, 
+SDD -> 3.3v, 
 
 OLED:
-vcc -> 3.3v
-SCL -> A5
-SCA -> A4
+vcc -> 3.3v, 
+SCL -> A5, 
+SCA -> A4, 
 
 Buzzer:
-09 (buzzer -)
-10 (buzzer +)
+09 (buzzer -), 
+10 (buzzer +), 
 
 Button -> 04
 
