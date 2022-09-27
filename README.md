@@ -26,9 +26,8 @@ Buzzer:
 
 Button -> 04
 
-Working video
-
-![video](https://user-images.githubusercontent.com/44578652/192471511-3a2c5bd5-d8a9-4bbf-902e-bdaea6fe9b61.mp4)
+Working video:
+https://user-images.githubusercontent.com/44578652/192471511-3a2c5bd5-d8a9-4bbf-902e-bdaea6fe9b61.mp4
 
 ![vario_screen](https://user-images.githubusercontent.com/44578652/191684931-c7044c36-4219-4735-b700-6c4800bbe6a7.png)
 
